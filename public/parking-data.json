@@ -1,0 +1,170 @@
+{
+  "UpdateTime": "2025-04-02T15:36:45+08:00",
+  "UpdateInterval": 14400,
+  "AuthorityCode": "TBROC",
+  "VersionID": 0,
+  "ParkingFacilities": [
+    {
+      "CarParkID": "NCG-nob01",
+      "CarParkName": {
+        "Zh_tw": "金山中角停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "中角灣遊客中心",
+          "FacilityType": 9,
+          "LocationDescription": "停車場旁"
+        },
+        {
+          "FacilityName": "商店",
+          "FacilityType": 7,
+          "LocationDescription": "遊客中心內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ERV302",
+      "CarParkName": {
+        "Zh_tw": "鹿野遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "男、女公廁",
+          "FacilityType": 2,
+          "LocationDescription": "遊客中心旁"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "遊客中心旁"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "免費無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "服務櫃台",
+          "FacilityType": 9,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "置物櫃",
+          "FacilityType": 14,
+          "LocationDescription": "遊客中心內"
+        },
+        {
+          "FacilityName": "AED設備",
+          "FacilityType": 16,
+          "LocationDescription": "遊客中心內"
+        }
+      ]
+    },
+    {
+      "CarParkID": "ALI-00003",
+      "CarParkName": {
+        "Zh_tw": "文峰遊客中心停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "停車場旁及文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "停車場旁及文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "哺乳室",
+          "FacilityType": 4,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "賣店",
+          "FacilityType": 7,
+          "LocationDescription": "文峰遊客中心2樓"
+        },
+        {
+          "FacilityName": "愛台灣無線網路",
+          "FacilityType": 6,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "文峰遊客中心服務台",
+          "FacilityType": 9,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "手機充電",
+          "FacilityType": 11,
+          "LocationDescription": "文峰遊客中心1樓"
+        },
+        {
+          "FacilityName": "AED",
+          "FacilityType": 16,
+          "LocationDescription": "文峰遊客中心1樓"
+        }
+      ]
+    },
+    {
+      "CarParkID": "MAOL08",
+      "CarParkName": {
+        "Zh_tw": "賽嘉樂園停車場"
+      },
+      "Facilities": [
+        {
+          "FacilityName": "廁所",
+          "FacilityType": 2,
+          "LocationDescription": "賽嘉樂園"
+        },
+        {
+          "FacilityName": "無障礙廁所",
+          "FacilityType": 3,
+          "LocationDescription": "賽嘉樂園"
+        },
+        {
+          "FacilityName": "獨立育嬰室",
+          "FacilityType": 4,
+          "LocationDescription": "賽嘉樂園遊客中心"
+        },
+        {
+          "FacilityName": "旅客服務臺",
+          "FacilityType": 9,
+          "LocationDescription": "賽嘉樂園遊客中心"
+        },
+        {
+          "FacilityName": "飲水機",
+          "FacilityType": 10,
+          "LocationDescription": "賽嘉樂園交誼大廳"
+        }
+      ]
+    }
+  ]
+}

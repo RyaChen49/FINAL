@@ -1,0 +1,13 @@
+{
+  "name": "parking-facilities",
+  "version": "1.0.0",
+  "description": "停車場設施查詢系統",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
