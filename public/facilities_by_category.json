@@ -1,0 +1,96 @@
+{
+  "設施": {
+    "廁所": {
+      "name": "一般廁所",
+      "facilities": ${JSON.stringify(廁所, null, 2)}
+    },
+    "遊客中心": {
+      "name": "遊客服務中心",
+      "facilities": ${JSON.stringify(遊客中心, null, 2)}
+    },
+    "商店": {
+      "name": "商店及賣店",
+      "facilities": ${JSON.stringify(商店, null, 2)}
+    },
+    "無障礙廁所": {
+      "name": "無障礙廁所",
+      "facilities": ${JSON.stringify(無障礙廁所, null, 2)}
+    },
+    "哺乳室": {
+      "name": "哺乳室",
+      "facilities": ${JSON.stringify(哺乳室, null, 2)}
+    },
+    "祈禱室": {
+      "name": "祈禱室",
+      "facilities": ${JSON.stringify(祈禱室, null, 2)}
+    },
+    "無線網路": {
+      "name": "免費WiFi",
+      "facilities": ${JSON.stringify(免費無線網路, null, 2)}
+    },
+    "手機充電": {
+      "name": "手機充電站",
+      "facilities": ${JSON.stringify(手機充電, null, 2)}
+    },
+    "充電設備": {
+      "name": "電動車充電設備",
+      "facilities": ${JSON.stringify(充電設備, null, 2)}
+    },
+    "飲水機": {
+      "name": "飲水設備",
+      "facilities": ${JSON.stringify(飲水機, null, 2)}
+    },
+    "AED": {
+      "name": "AED設備",
+      "facilities": ${JSON.stringify(AED, null, 2)}
+    },
+    "管理室": {
+      "name": "管理室",
+      "facilities": ${JSON.stringify(管理室, null, 2)}
+    },
+    "咖啡廳": {
+      "name": "咖啡廳及餐廳",
+      "facilities": ${JSON.stringify(咖啡廳, null, 2)}
+    },
+    "保健室": {
+      "name": "醫護室",
+      "facilities": ${JSON.stringify(保健室, null, 2)}
+    },
+    "置物櫃": {
+      "name": "置物櫃",
+      "facilities": ${JSON.stringify(置物櫃, null, 2)}
+    },
+    "淋浴間": {
+      "name": "淋浴設施",
+      "facilities": ${JSON.stringify(淋浴間, null, 2)}
+    },
+    "公共電話": {
+      "name": "公共電話",
+      "facilities": ${JSON.stringify(公共電話, null, 2)}
+    },
+    "休息室": {
+      "name": "駕駛人休息室",
+      "facilities": ${JSON.stringify(駕駛人休息室, null, 2)}
+    },
+    "公車站": {
+      "name": "公車站",
+      "facilities": ${JSON.stringify(公車站, null, 2)}
+    },
+    "電梯": {
+      "name": "電梯設施",
+      "facilities": ${JSON.stringify(電梯, null, 2)}
+    },
+    "繳費機": {
+      "name": "自動繳費設備",
+      "facilities": ${JSON.stringify(繳費機, null, 2)}
+    },
+    "其他附屬設施": {
+      "name": "其他設施",
+      "facilities": ${JSON.stringify(其他附屬設施, null, 2)}
+    },
+    "無設施": {
+      "name": "無設施",
+      "facilities": ${JSON.stringify(無設施, null, 2)}
+    }
+  }
+}
